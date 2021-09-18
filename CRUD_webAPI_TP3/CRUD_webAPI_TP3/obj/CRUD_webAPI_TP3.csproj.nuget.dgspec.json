@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\ClassInfra\\ClassInfra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\ClassInfra\\ClassInfra.csproj",
+        "projectName": "ClassInfra",
+        "projectPath": "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\ClassInfra\\ClassInfra.csproj",
+        "packagesPath": "C:\\Users\\EricFG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\ClassInfra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EricFG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3.csproj",
+        "projectName": "CRUD_webAPI_TP3",
+        "projectPath": "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3.csproj",
+        "packagesPath": "C:\\Users\\EricFG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\CRUD_webAPI_TP3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EricFG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\ClassInfra\\ClassInfra.csproj": {
+                "projectPath": "C:\\Users\\EricFG\\Documents\\SAFE_ZONE\\Trabalhos_InfNet\\Bloco Desenvolvimento .NET\\AZURE\\CRUD_webAPI_TP3\\ClassInfra\\ClassInfra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

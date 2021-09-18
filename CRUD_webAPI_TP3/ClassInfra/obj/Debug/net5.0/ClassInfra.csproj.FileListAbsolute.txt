@@ -1,0 +1,15 @@
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\bin\Debug\net5.0\ClassInfra.deps.json
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\bin\Debug\net5.0\ClassInfra.runtimeconfig.json
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\bin\Debug\net5.0\ClassInfra.runtimeconfig.dev.json
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\bin\Debug\net5.0\ClassInfra.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\bin\Debug\net5.0\ref\ClassInfra.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\bin\Debug\net5.0\ClassInfra.pdb
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.csprojAssemblyReference.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.AssemblyInfoInputs.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.AssemblyInfo.cs
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.csproj.CoreCompileInputs.cache
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ref\ClassInfra.dll
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.pdb
+C:\Users\EricFG\Documents\SAFE_ZONE\Trabalhos_InfNet\Bloco Desenvolvimento .NET\AZURE\CRUD_webAPI_TP3\ClassInfra\obj\Debug\net5.0\ClassInfra.genruntimeconfig.cache
